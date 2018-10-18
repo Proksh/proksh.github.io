@@ -1,8 +1,9 @@
 {
-  "main.css": "static/css/main.2a69a632.css",
-  "main.css.map": "static/css/main.2a69a632.css.map",
-  "main.js": "static/js/main.f3c76df6.js",
-  "main.js.map": "static/js/main.f3c76df6.js.map",
+  "main.css": "static/css/main.78123261.css",
+  "main.css.map": "static/css/main.78123261.css.map",
+  "main.js": "static/js/main.0233c485.js",
+  "main.js.map": "static/js/main.0233c485.js.map",
+  "static/media/artist.jpg": "static/media/artist.0883faad.jpg",
   "static/media/image1.jpg": "static/media/image1.e45dafae.jpg",
   "static/media/image10.jpg": "static/media/image10.fc91f0a3.jpg",
   "static/media/image11.jpg": "static/media/image11.fceb804e.jpg",
@@ -52,8 +53,12 @@
   "static/media/image51.jpg": "static/media/image51.4cb72a7e.jpg",
   "static/media/image52.jpg": "static/media/image52.05945c15.jpg",
   "static/media/image53.jpg": "static/media/image53.f25a73d9.jpg",
+  "static/media/image54.jpg": "static/media/image54.53aeedcf.jpg",
+  "static/media/image55.jpg": "static/media/image55.47288608.jpg",
+  "static/media/image56.jpg": "static/media/image56.c1248b17.jpg",
   "static/media/image6.jpg": "static/media/image6.3f6b3f52.jpg",
   "static/media/image7.jpg": "static/media/image7.c01b66f0.jpg",
   "static/media/image9.jpg": "static/media/image9.1340bb43.jpg",
+  "static/media/logo.svg": "static/media/logo.ebac48ab.svg",
   "static/media/wall-back-dark.png": "static/media/wall-back-dark.fad942b6.png"
 }
