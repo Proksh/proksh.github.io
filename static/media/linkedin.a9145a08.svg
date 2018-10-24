@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.9999485,0 C23.2846811,0 30,6.71624576 30,15.0000515 C30,23.2838572 23.2846811,30 14.9999485,30 C6.71521597,30 0,23.2837542 0,15.0000515 C0,6.71634874 6.71531895,0 14.9999485,0 Z" id="path-1"></path>
+        <filter x="-76.7%" y="-43.3%" width="253.3%" height="253.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0549019608   0 0 0 0 0.462745098   0 0 0 0 0.658823529  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-32" transform="translate(-564.000000, -527.000000)" fill-rule="nonzero">
+            <g id="linkedin" transform="translate(576.000000, 529.000000)">
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#0E76A8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M8.34847254,20.8332286 L11.1818059,20.8332286 L11.1818059,11.3118878 L8.34847254,11.3118878 L8.34847254,20.8332286 Z M19.3668067,10.9820814 C17.99422,10.9820814 16.7660779,11.4883641 15.8948478,12.6058727 L15.8948478,11.2805724 L13.0562468,11.2805724 L13.0562468,20.8333333 L15.8948478,20.8333333 L15.8948478,15.6674482 C15.8948478,14.5757041 16.8851177,13.5106671 18.1254956,13.5106671 C19.3658735,13.5106671 19.6717684,14.5757041 19.6717684,15.6407411 L19.6717684,20.8323907 L22.5,20.8323907 L22.5,15.4281317 C22.4998963,11.6742664 20.7403266,10.9820814 19.3668067,10.9820814 Z M9.75,10.3603821 C10.5319884,10.3603821 11.1666667,9.71962134 11.1666667,8.93013869 C11.1666667,8.14065605 10.5319884,7.5 9.75,7.5 C8.96801162,7.5 8.33333333,8.14076079 8.33333333,8.93024343 C8.33333333,9.71972607 8.96801162,10.3603821 9.75,10.3603821 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
