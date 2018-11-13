@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.277f5553.css",
-  "main.css.map": "static/css/main.277f5553.css.map",
-  "main.js": "static/js/main.6305ba4c.js",
-  "main.js.map": "static/js/main.6305ba4c.js.map",
+  "main.css": "static/css/main.54450ae6.css",
+  "main.css.map": "static/css/main.54450ae6.css.map",
+  "main.js": "static/js/main.0be6d3b1.js",
+  "main.js.map": "static/js/main.0be6d3b1.js.map",
   "static/media/artist.jpg": "static/media/artist.0883faad.jpg",
   "static/media/help1.svg": "static/media/help1.a4595c4a.svg",
   "static/media/help2.svg": "static/media/help2.7f54bc75.svg",
@@ -62,6 +62,6 @@
   "static/media/image6.jpg": "static/media/image6.3f6b3f52.jpg",
   "static/media/image7.jpg": "static/media/image7.c01b66f0.jpg",
   "static/media/image9.jpg": "static/media/image9.1340bb43.jpg",
-  "static/media/logo.svg": "static/media/logo.adf353ba.svg",
+  "static/media/muzelf.svg": "static/media/muzelf.d7ac0538.svg",
   "static/media/wall-back-dark.png": "static/media/wall-back-dark.fad942b6.png"
 }
